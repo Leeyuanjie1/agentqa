@@ -1,0 +1,20 @@
+services:
+  docqa-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: docqa-agent
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      DOCQA_PDF_PATH: /app/data/input
+      DOCQA_ARTIFACT_DIR: /app/data/artifacts/attachment
+      DOCQA_EMBEDDING_MODEL_PATH: /app/models/bge-m3
+      DOCQA_RERANKER_MODEL_PATH: /app/models/bge-reranker-large
+    ports:
+      - "9060:9060"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    command: ["python", "serve.py"]

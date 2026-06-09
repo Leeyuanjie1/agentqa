@@ -1,0 +1,4123 @@
+{
+  "pdf_path": "data\\input",
+  "pdf_type": "mixed",
+  "total_pages": 6,
+  "elements": [
+    {
+      "page": 1,
+      "element_type": "clause",
+      "text": "2025 年1 月1 日至6 月30 日止期间财务报表",
+      "clause_id": "2025",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "clause",
+      "text": "2025 年1 月1 日至6 月30 日止期间",
+      "clause_id": "2025",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "clause",
+      "text": "2024 年度",
+      "clause_id": "2024",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "clause",
+      "text": "136",
+      "clause_id": "136",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "中信证券股份有限公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "第 44 页",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "被投资单位名称 2024 年12 月31 日 本期增加 本期减少 2025 年6 月30 日 减值准备",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "账面价值 账面价值",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "权益法：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "合营企业：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Sino-Ocean Land Logistics",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Investment Management Limited 7.19 - 0.03 7.16 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "CSOBOR Fund GP Limited 352.48 - 1.70 350.78 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Bright Lee Capital Limited 345.30 - 1.68 343.62 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Double Nitrogen Fund GP, Limited 345.28 - 1.66 343.62 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital Holdings IV Limited 12,463,665.67 6,821,402.63 78,910.32 19,206,157.98 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital Holdings V Limited 4,047,689.40 5,364,712.83 750,200.50 8,662,201.73 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "中信标普指数信息服务 (北京) 有限",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "公司 - - - - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "小计 16,512,405.32 12,186,115.46 829,115.89 27,869,404.89 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "合计 9,607,514,080.96 449,995,947.17 270,808,595.80 9,786,701,432.33 14,965,691.15",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "被投资单位名称 2024 年1 月1 日 本年增加 本年减少 2024 年12 月31 日 减值准备",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "账面价值 账面价值",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "权益法：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "联营企业：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "中信建投证券股份有限公司 3,848,538,127.35 335,400,708.47 130,168,751.12 4,053,770,084.70 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "中信产业投资基金管理有限公司 1,833,173,917.72 - 375,866,677.44 1,457,307,240.28 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "新疆股权交易中心有限公司 (以下简",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "称”新疆股权交易中心”) 24,136,358.89 896,215.89 152,559.06 24,880,015.72 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "青岛蓝海股权交易中心有限责任公司 67,040,953.76 - 6,823,784.06 60,217,169.70 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "北京金石农业投资基金管理中心",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "(有限合伙) - 11,799,724.38 11,799,724.38 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "北京农业产业投资基金 (有限合伙) - 20,317,422.74 20,317,422.74 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "深圳市信融客户服务俱乐部有限公司 112,457.54 - - 112,457.54 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "泰富金石 (天津) 基金管理有限公司 19,365,430.11 - 2,311,000.00 17,054,430.11 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "西安明日宇航工业有限责任公司 - 49,350.00 49,350.00 - 9,571,692.49",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "同方莱士医药产业投资 (广东)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "有限公司 449,146,868.13 23,166,332.00 4,968,625.90 467,344,574.23 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "山东坤信企业管理有限公司 - - - - 14,965,691.15",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "信保（广州）私募基金管理有限公司 1,310,947,368.64 127,754,106.42 - 1,438,701,475.06 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "赛领国际投资基金 (上海) 有限公司 315,492,797.47 - 33,209,981.53 282,282,815.94 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "赛领资本管理有限公司 43,961,658.75 - 669,495.65 43,292,163.10 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "深圳前海基础设施投资基金管理有限",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "公司 23,971,625.33 - 6,567,030.12 17,404,595.21 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "西藏信昇股权投资合伙企业",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "(有限合伙) 471,322,565.72 5,559,444.09 15,000,000.00 461,882,009.81 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Aria Investment Partners III, L.P. 544,815.92 8,760.49 553,576.41 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Aria Investment Partners IV, L.P. 96,375,223.65 5,209,296.72 30,248,861.19 71,335,659.18 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Aria Investment Partners V, L.P. 18,759,762.51 3,446,886.54 - 22,206,649.05 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Fudo Capital II, L.P. 1,187,841.59 18,526.93 1,206,368.52 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital II, L.P. 143,363,925.60 98,529,629.13 - 241,893,554.73 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital III, L.P. 61,200,238.18 13,790,154.00 59,174,095.85 15,816,296.33 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital IV, L.P. 138,184,780.88 66,819,259.01 101,346,219.88 103,657,820.01 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital V (JPY), L.P. - 33,408,438.83 7,398,826.71 26,009,612.12 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "Clean Resources Asia Growth Fund",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "L.P. 334,879.10 4,346.80 339,225.90 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "paragraph",
+      "text": "CLSA Aviation Private Equity Fund I - 21,058,725.69 21,006,052.21 52,673.48 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Investment Management Limited | 7.19 | - | 0.03 | 7.16 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Investment Management Limited",
+            "7.19",
+            "-",
+            "0.03",
+            "7.16",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Investment Management Limited | 7.19 | - | 0.03 | 7.16 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Investment Management Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CSOBOR Fund GP Limited | 352.48 | - | 1.70 | 350.78 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CSOBOR Fund GP Limited",
+            "352.48",
+            "-",
+            "1.70",
+            "350.78",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CSOBOR Fund GP Limited | 352.48 | - | 1.70 | 350.78 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CSOBOR Fund GP Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Bright Lee Capital Limited | 345.30 | - | 1.68 | 343.62 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Bright Lee Capital Limited",
+            "345.30",
+            "-",
+            "1.68",
+            "343.62",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Bright Lee Capital Limited | 345.30 | - | 1.68 | 343.62 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Bright Lee Capital Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Double Nitrogen Fund GP, Limited | 345.28 | - | 1.66 | 343.62 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Double Nitrogen Fund GP, Limited",
+            "345.28",
+            "-",
+            "1.66",
+            "343.62",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Double Nitrogen Fund GP, Limited | 345.28 | - | 1.66 | 343.62 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Double Nitrogen Fund GP, Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings IV Limited | 12,463,665.67 | 6,821,402.63 | 78,910.32 | 19,206,157.98 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital Holdings IV Limited",
+            "12,463,665.67",
+            "6,821,402.63",
+            "78,910.32",
+            "19,206,157.98",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings IV Limited | 12,463,665.67 | 6,821,402.63 | 78,910.32 | 19,206,157.98 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital Holdings IV Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings V Limited | 4,047,689.40 | 5,364,712.83 | 750,200.50 | 8,662,201.73 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital Holdings V Limited",
+            "4,047,689.40",
+            "5,364,712.83",
+            "750,200.50",
+            "8,662,201.73",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings V Limited | 4,047,689.40 | 5,364,712.83 | 750,200.50 | 8,662,201.73 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital Holdings V Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 中信标普指数信息服务 (北京) 有限 公司 | - | - | - | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "中信标普指数信息服务 (北京) 有限 公司",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 中信标普指数信息服务 (北京) 有限 公司 | - | - | - | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "中信标普指数信息服务 (北京) 有限 公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 小计 | 16,512,405.32 | 12,186,115.46 | 829,115.89 | 27,869,404.89 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "小计",
+            "16,512,405.32",
+            "12,186,115.46",
+            "829,115.89",
+            "27,869,404.89",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 小计 | 16,512,405.32 | 12,186,115.46 | 829,115.89 | 27,869,404.89 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "小计",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 合计 | 9,607,514,080.96 | 449,995,947.17 | 270,808,595.80 | 9,786,701,432.33 | 14,965,691.15 |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "合计",
+            "9,607,514,080.96",
+            "449,995,947.17",
+            "270,808,595.80",
+            "9,786,701,432.33",
+            "14,965,691.15"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 合计 | 9,607,514,080.96 | 449,995,947.17 | 270,808,595.80 | 9,786,701,432.33 | 14,965,691.15 |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "合计",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 联营企业： 中信建投证券股份有限公司 | 3,848,538,127.35 | 335,400,708.47 | 130,168,751.12 | 4,053,770,084.70 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "联营企业： 中信建投证券股份有限公司",
+            "3,848,538,127.35",
+            "335,400,708.47",
+            "130,168,751.12",
+            "4,053,770,084.70",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 联营企业： 中信建投证券股份有限公司 | 3,848,538,127.35 | 335,400,708.47 | 130,168,751.12 | 4,053,770,084.70 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "联营企业： 中信建投证券股份有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 中信产业投资基金管理有限公司 | 1,833,173,917.72 | - | 375,866,677.44 | 1,457,307,240.28 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "中信产业投资基金管理有限公司",
+            "1,833,173,917.72",
+            "-",
+            "375,866,677.44",
+            "1,457,307,240.28",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 中信产业投资基金管理有限公司 | 1,833,173,917.72 | - | 375,866,677.44 | 1,457,307,240.28 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "中信产业投资基金管理有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 新疆股权交易中心有限公司 (以下简 称”新疆股权交易中心”) | 24,136,358.89 | 896,215.89 | 152,559.06 | 24,880,015.72 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "新疆股权交易中心有限公司 (以下简 称”新疆股权交易中心”)",
+            "24,136,358.89",
+            "896,215.89",
+            "152,559.06",
+            "24,880,015.72",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 新疆股权交易中心有限公司 (以下简 称”新疆股权交易中心”) | 24,136,358.89 | 896,215.89 | 152,559.06 | 24,880,015.72 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "新疆股权交易中心有限公司 (以下简 称”新疆股权交易中心”)",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 青岛蓝海股权交易中心有限责任公司 | 67,040,953.76 | - | 6,823,784.06 | 60,217,169.70 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "青岛蓝海股权交易中心有限责任公司",
+            "67,040,953.76",
+            "-",
+            "6,823,784.06",
+            "60,217,169.70",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 青岛蓝海股权交易中心有限责任公司 | 67,040,953.76 | - | 6,823,784.06 | 60,217,169.70 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "青岛蓝海股权交易中心有限责任公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 北京金石农业投资基金管理中心 (有限合伙) | - | 11,799,724.38 | 11,799,724.38 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "北京金石农业投资基金管理中心 (有限合伙)",
+            "-",
+            "11,799,724.38",
+            "11,799,724.38",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 北京金石农业投资基金管理中心 (有限合伙) | - | 11,799,724.38 | 11,799,724.38 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "北京金石农业投资基金管理中心 (有限合伙)",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 北京农业产业投资基金 (有限合伙) | - | 20,317,422.74 | 20,317,422.74 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "北京农业产业投资基金 (有限合伙)",
+            "-",
+            "20,317,422.74",
+            "20,317,422.74",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 北京农业产业投资基金 (有限合伙) | - | 20,317,422.74 | 20,317,422.74 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "北京农业产业投资基金 (有限合伙)",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 深圳市信融客户服务俱乐部有限公司 | 112,457.54 | - | - | 112,457.54 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "深圳市信融客户服务俱乐部有限公司",
+            "112,457.54",
+            "-",
+            "-",
+            "112,457.54",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 深圳市信融客户服务俱乐部有限公司 | 112,457.54 | - | - | 112,457.54 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "深圳市信融客户服务俱乐部有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 泰富金石 (天津) 基金管理有限公司 | 19,365,430.11 | - | 2,311,000.00 | 17,054,430.11 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "泰富金石 (天津) 基金管理有限公司",
+            "19,365,430.11",
+            "-",
+            "2,311,000.00",
+            "17,054,430.11",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 泰富金石 (天津) 基金管理有限公司 | 19,365,430.11 | - | 2,311,000.00 | 17,054,430.11 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "泰富金石 (天津) 基金管理有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 西安明日宇航工业有限责任公司 | - | 49,350.00 | 49,350.00 | - | 9,571,692.49 |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "西安明日宇航工业有限责任公司",
+            "-",
+            "49,350.00",
+            "49,350.00",
+            "-",
+            "9,571,692.49"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 西安明日宇航工业有限责任公司 | - | 49,350.00 | 49,350.00 | - | 9,571,692.49 |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "西安明日宇航工业有限责任公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 同方莱士医药产业投资 (广东) 有限公司 | 449,146,868.13 | 23,166,332.00 | 4,968,625.90 | 467,344,574.23 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "同方莱士医药产业投资 (广东) 有限公司",
+            "449,146,868.13",
+            "23,166,332.00",
+            "4,968,625.90",
+            "467,344,574.23",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 同方莱士医药产业投资 (广东) 有限公司 | 449,146,868.13 | 23,166,332.00 | 4,968,625.90 | 467,344,574.23 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "同方莱士医药产业投资 (广东) 有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 山东坤信企业管理有限公司 | - | - | - | - | 14,965,691.15 |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "山东坤信企业管理有限公司",
+            "-",
+            "-",
+            "-",
+            "-",
+            "14,965,691.15"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 山东坤信企业管理有限公司 | - | - | - | - | 14,965,691.15 |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "山东坤信企业管理有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 信保（广州）私募基金管理有限公司 | 1,310,947,368.64 | 127,754,106.42 | - | 1,438,701,475.06 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "信保（广州）私募基金管理有限公司",
+            "1,310,947,368.64",
+            "127,754,106.42",
+            "-",
+            "1,438,701,475.06",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 信保（广州）私募基金管理有限公司 | 1,310,947,368.64 | 127,754,106.42 | - | 1,438,701,475.06 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "信保（广州）私募基金管理有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 赛领国际投资基金 (上海) 有限公司 | 315,492,797.47 | - | 33,209,981.53 | 282,282,815.94 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "赛领国际投资基金 (上海) 有限公司",
+            "315,492,797.47",
+            "-",
+            "33,209,981.53",
+            "282,282,815.94",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 赛领国际投资基金 (上海) 有限公司 | 315,492,797.47 | - | 33,209,981.53 | 282,282,815.94 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "赛领国际投资基金 (上海) 有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 赛领资本管理有限公司 | 43,961,658.75 | - | 669,495.65 | 43,292,163.10 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "赛领资本管理有限公司",
+            "43,961,658.75",
+            "-",
+            "669,495.65",
+            "43,292,163.10",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 赛领资本管理有限公司 | 43,961,658.75 | - | 669,495.65 | 43,292,163.10 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "赛领资本管理有限公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 深圳前海基础设施投资基金管理有限 公司 | 23,971,625.33 | - | 6,567,030.12 | 17,404,595.21 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "深圳前海基础设施投资基金管理有限 公司",
+            "23,971,625.33",
+            "-",
+            "6,567,030.12",
+            "17,404,595.21",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 深圳前海基础设施投资基金管理有限 公司 | 23,971,625.33 | - | 6,567,030.12 | 17,404,595.21 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "深圳前海基础设施投资基金管理有限 公司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 西藏信昇股权投资合伙企业 (有限合伙) | 471,322,565.72 | 5,559,444.09 | 15,000,000.00 | 461,882,009.81 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "西藏信昇股权投资合伙企业 (有限合伙)",
+            "471,322,565.72",
+            "5,559,444.09",
+            "15,000,000.00",
+            "461,882,009.81",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 西藏信昇股权投资合伙企业 (有限合伙) | 471,322,565.72 | 5,559,444.09 | 15,000,000.00 | 461,882,009.81 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "西藏信昇股权投资合伙企业 (有限合伙)",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Aria Investment Partners III, L.P. | 544,815.92 | 8,760.49 | 553,576.41 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Aria Investment Partners III, L.P.",
+            "544,815.92",
+            "8,760.49",
+            "553,576.41",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Aria Investment Partners III, L.P. | 544,815.92 | 8,760.49 | 553,576.41 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Aria Investment Partners III, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Aria Investment Partners IV, L.P. | 96,375,223.65 | 5,209,296.72 | 30,248,861.19 | 71,335,659.18 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Aria Investment Partners IV, L.P.",
+            "96,375,223.65",
+            "5,209,296.72",
+            "30,248,861.19",
+            "71,335,659.18",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Aria Investment Partners IV, L.P. | 96,375,223.65 | 5,209,296.72 | 30,248,861.19 | 71,335,659.18 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Aria Investment Partners IV, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Aria Investment Partners V, L.P. | 18,759,762.51 | 3,446,886.54 | - | 22,206,649.05 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Aria Investment Partners V, L.P.",
+            "18,759,762.51",
+            "3,446,886.54",
+            "-",
+            "22,206,649.05",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Aria Investment Partners V, L.P. | 18,759,762.51 | 3,446,886.54 | - | 22,206,649.05 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Aria Investment Partners V, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Fudo Capital II, L.P. | 1,187,841.59 | 18,526.93 | 1,206,368.52 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Fudo Capital II, L.P.",
+            "1,187,841.59",
+            "18,526.93",
+            "1,206,368.52",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Fudo Capital II, L.P. | 1,187,841.59 | 18,526.93 | 1,206,368.52 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Fudo Capital II, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital II, L.P. | 143,363,925.60 | 98,529,629.13 | - | 241,893,554.73 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital II, L.P.",
+            "143,363,925.60",
+            "98,529,629.13",
+            "-",
+            "241,893,554.73",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital II, L.P. | 143,363,925.60 | 98,529,629.13 | - | 241,893,554.73 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital II, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital III, L.P. | 61,200,238.18 | 13,790,154.00 | 59,174,095.85 | 15,816,296.33 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital III, L.P.",
+            "61,200,238.18",
+            "13,790,154.00",
+            "59,174,095.85",
+            "15,816,296.33",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital III, L.P. | 61,200,238.18 | 13,790,154.00 | 59,174,095.85 | 15,816,296.33 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital III, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital IV, L.P. | 138,184,780.88 | 66,819,259.01 | 101,346,219.88 | 103,657,820.01 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital IV, L.P.",
+            "138,184,780.88",
+            "66,819,259.01",
+            "101,346,219.88",
+            "103,657,820.01",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital IV, L.P. | 138,184,780.88 | 66,819,259.01 | 101,346,219.88 | 103,657,820.01 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital IV, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital V (JPY), L.P. | - | 33,408,438.83 | 7,398,826.71 | 26,009,612.12 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital V (JPY), L.P.",
+            "-",
+            "33,408,438.83",
+            "7,398,826.71",
+            "26,009,612.12",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital V (JPY), L.P. | - | 33,408,438.83 | 7,398,826.71 | 26,009,612.12 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital V (JPY), L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Clean Resources Asia Growth Fund L.P. | 334,879.10 | 4,346.80 | 339,225.90 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Clean Resources Asia Growth Fund L.P.",
+            "334,879.10",
+            "4,346.80",
+            "339,225.90",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Clean Resources Asia Growth Fund L.P. | 334,879.10 | 4,346.80 | 339,225.90 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Clean Resources Asia Growth Fund L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 1,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Aviation Private Equity Fund I | - | 21,058,725.69 | 21,006,052.21 | 52,673.48 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CLSA Aviation Private Equity Fund I",
+            "-",
+            "21,058,725.69",
+            "21,006,052.21",
+            "52,673.48",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Aviation Private Equity Fund I | - | 21,058,725.69 | 21,006,052.21 | 52,673.48 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CLSA Aviation Private Equity Fund I",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "clause",
+      "text": "2025 年1 月1 日至6 月30 日止期间财务报表",
+      "clause_id": "2025",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "clause",
+      "text": "2024 年度",
+      "clause_id": "2024",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "clause",
+      "text": "137",
+      "clause_id": "137",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "中信证券股份有限公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "第 45 页",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "被投资单位名称 2024 年1 月1 日 本年增加 本年减少 2024 年12 月31 日 减值准备",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "账面价值 账面价值",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "CLSA Aviation Private Equity Fund II 374,670.81 64,171.76 - 438,842.57 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "CLSA Aviation II Investments",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "(Cayman) Limited 70,490,832.17 13,350,585.70 1,989,436.47 81,851,981.40 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "CLSA Infrastructure Private Equity",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Fund I 883,193.45 70,622.22 50,525.02 903,290.65 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Lending Ark Asia Secured Private",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Debt Fund I (Non-US), LP 319,537,546.02 32,575,298.53 96,363,346.77 255,749,497.78",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "-",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "CSOBOR Fund L.P. 62,663,465.61 6,834,617.13 7,343,881.64 62,154,201.10 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "CT CLSA Holdings Limited 6,233,375.89 1,348,130.55 - 7,581,506.44 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Citron PE Holdings Limited 253,941,267.84 5,269,768.35 18,749,499.79 240,461,536.40 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Alfalah CLSA Securities (Private)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Limited 3,118,354.73 - 3,118,354.73 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Holisol Logistics Private Limited 48,321,119.34 1,480,305.83 648,474.22 49,152,950.95 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Pine Tree Special Opportunity FMC",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "LLC - 1,064,639.00 1,064,639.00 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Lending Ark Asia Secured Private",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Debt Holdings Limited 219,061.34 1,860,667.95 - 2,079,729.29 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "CLSA Asia Growth Fund, L.P. - 87,721,848.00 2,315,005.24 85,406,842.76 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "小计 9,632,944,484.04 918,877,983.15 960,820,791.55 9,591,001,675.64 24,537,383.64",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "权益法：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "合营企业：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Sino-Ocean Land Logistics",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Investment Management Limited 7.08 0.11 - 7.19 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "CSOBOR Fund GP Limited 346.82 5.66 - 352.48 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Bright Lee Capital Limited 68.55 67,233.52 66,956.77 345.30 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Double Nitrogen Fund GP, Limited 339.28 6.00 - 345.28 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Kingvest Limited - 58,370.85 58,370.85 - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital Holdings IV Limited 17,063,599.98 6,190,214.32 10,790,148.63 12,463,665.67 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "Sunrise Capital Holdings V Limited - 4,047,689.40 - 4,047,689.40 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "中信标普指数信息服务 (北京) 有限公",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "司 - - - - -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "小计 17,064,361.71 10,363,519.86 10,915,476.25 16,512,405.32 -",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "合计 9,650,008,845.75 929,241,503.01 971,736,267.80 9,607,514,080.96 24,537,383.64",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "paragraph",
+      "text": "中信证券2025 半年度报告| 财务报告",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "|  | 中信证券股份有限公司 2025年1月1日至6月30日止期间财务报表 2024年度 被投资单位名称 2024年1月1日 本年增加 本年减少 2024年12月31日 减值准备 账面价值 账面价值 CLSA Aviation Private Equity Fund II 374,670.81 64,171.76 - 438,842.57 - CLSA Aviation II Investments (Cayman) Limited 70,490,832.17 13,350,585.70 1,989,436.47 81,851,981.40 - CLSA Infrastructure Private Equity Fund I 883,193.45 70,622.22 50,525.02 903,290.65 - Lending Ark Asia Secured Private Debt Fund I (Non-US), LP 319,537,546.02 32,575,298.53 96,363,346.77 255,749,497.78 - CSOBOR Fund L.P. 62,663,465.61 6,834,617.13 7,343,881.64 62,154,201.10 - CT CLSA Holdings Limited 6,233,375.89 1,348,130.55 - 7,581,506.44 - Citron PE Holdings Limited 253,941,267.84 5,269,768.35 18,749,499.79 240,461,536.40 - Alfalah CLSA Securities (Private) Limited 3,118,354.73 - 3,118,354.73 - - Holisol Logistics Private Limited 48,321,119.34 1,480,305.83 648,474.22 49,152,950.95 - Pine Tree Special Opportunity FMC LLC - 1,064,639.00 1,064,639.00 - - Lending Ark Asia Secured Private Debt Holdings Limited 219,061.34 1,860,667.95 - 2,079,729.29 - CLSA Asia Growth Fund, L.P. - 87,721,848.00 2,315,005.24 85,406,842.76 - 小计 9,632,944,484.04 918,877,983.15 960,820,791.55 9,591,001,675.64 24,537,383.64 权益法： 合营企业： Sino-Ocean Land Logistics Investment Management Limited 7.08 0.11 - 7.19 - CSOBOR Fund GP Limited 346.82 5.66 - 352.48 - Bright Lee Capital Limited 68.55 67,233.52 66,956.77 345.30 - Double Nitrogen Fund GP, Limited 339.28 6.00 - 345.28 - 137 Kingvest Limited - 58,370.85 58,370.85 - - Sunrise Capital Holdings IV Limited 17,063,599.98 6,190,214.32 10,790,148.63 12,463,665.67 - Sunrise Capital Holdings V Limited - 4,047,689.40 - 4,047,689.40 - 中信标普指数信息服务 (北京) 有限公 司 - - - - - 小计 17,064,361.71 10,363,519.86 10,915,476.25 16,512,405.32 - 合计 9,650,008,845.75 929,241,503.01 971,736,267.80 9,607,514,080.96 24,537,383.64 中信证券2025半年度报告|财务报告 第 45 页 |\n| --- | --- |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "",
+          "中信证券股份有限公司 2025年1月1日至6月30日止期间财务报表 2024年度 被投资单位名称 2024年1月1日 本年增加 本年减少 2024年12月31日 减值准备 账面价值 账面价值 CLSA Aviation Private Equity Fund II 374,670.81 64,171.76 - 438,842.57 - CLSA Aviation II Investments (Cayman) Limited 70,490,832.17 13,350,585.70 1,989,436.47 81,851,981.40 - CLSA Infrastructure Private Equity Fund I 883,193.45 70,622.22 50,525.02 903,290.65 - Lending Ark Asia Secured Private Debt Fund I (Non-US), LP 319,537,546.02 32,575,298.53 96,363,346.77 255,749,497.78 - CSOBOR Fund L.P. 62,663,465.61 6,834,617.13 7,343,881.64 62,154,201.10 - CT CLSA Holdings Limited 6,233,375.89 1,348,130.55 - 7,581,506.44 - Citron PE Holdings Limited 253,941,267.84 5,269,768.35 18,749,499.79 240,461,536.40 - Alfalah CLSA Securities (Private) Limited 3,118,354.73 - 3,118,354.73 - - Holisol Logistics Private Limited 48,321,119.34 1,480,305.83 648,474.22 49,152,950.95 - Pine Tree Special Opportunity FMC LLC - 1,064,639.00 1,064,639.00 - - Lending Ark Asia Secured Private Debt Holdings Limited 219,061.34 1,860,667.95 - 2,079,729.29 - CLSA Asia Growth Fund, L.P. - 87,721,848.00 2,315,005.24 85,406,842.76 - 小计 9,632,944,484.04 918,877,983.15 960,820,791.55 9,591,001,675.64 24,537,383.64 权益法： 合营企业： Sino-Ocean Land Logistics Investment Management Limited 7.08 0.11 - 7.19 - CSOBOR Fund GP Limited 346.82 5.66 - 352.48 - Bright Lee Capital Limited 68.55 67,233.52 66,956.77 345.30 - Double Nitrogen Fund GP, Limited 339.28 6.00 - 345.28 - 137 Kingvest Limited - 58,370.85 58,370.85 - - Sunrise Capital Holdings IV Limited 17,063,599.98 6,190,214.32 10,790,148.63 12,463,665.67 - Sunrise Capital Holdings V Limited - 4,047,689.40 - 4,047,689.40 - 中信标普指数信息服务 (北京) 有限公 司 - - - - - 小计 17,064,361.71 10,363,519.86 10,915,476.25 16,512,405.32 - 合计 9,650,008,845.75 929,241,503.01 971,736,267.80 9,607,514,080.96 24,537,383.64 中信证券2025半年度报告|财务报告 第 45 页"
+        ],
+        "rows": [],
+        "markdown": "|  | 中信证券股份有限公司 2025年1月1日至6月30日止期间财务报表 2024年度 被投资单位名称 2024年1月1日 本年增加 本年减少 2024年12月31日 减值准备 账面价值 账面价值 CLSA Aviation Private Equity Fund II 374,670.81 64,171.76 - 438,842.57 - CLSA Aviation II Investments (Cayman) Limited 70,490,832.17 13,350,585.70 1,989,436.47 81,851,981.40 - CLSA Infrastructure Private Equity Fund I 883,193.45 70,622.22 50,525.02 903,290.65 - Lending Ark Asia Secured Private Debt Fund I (Non-US), LP 319,537,546.02 32,575,298.53 96,363,346.77 255,749,497.78 - CSOBOR Fund L.P. 62,663,465.61 6,834,617.13 7,343,881.64 62,154,201.10 - CT CLSA Holdings Limited 6,233,375.89 1,348,130.55 - 7,581,506.44 - Citron PE Holdings Limited 253,941,267.84 5,269,768.35 18,749,499.79 240,461,536.40 - Alfalah CLSA Securities (Private) Limited 3,118,354.73 - 3,118,354.73 - - Holisol Logistics Private Limited 48,321,119.34 1,480,305.83 648,474.22 49,152,950.95 - Pine Tree Special Opportunity FMC LLC - 1,064,639.00 1,064,639.00 - - Lending Ark Asia Secured Private Debt Holdings Limited 219,061.34 1,860,667.95 - 2,079,729.29 - CLSA Asia Growth Fund, L.P. - 87,721,848.00 2,315,005.24 85,406,842.76 - 小计 9,632,944,484.04 918,877,983.15 960,820,791.55 9,591,001,675.64 24,537,383.64 权益法： 合营企业： Sino-Ocean Land Logistics Investment Management Limited 7.08 0.11 - 7.19 - CSOBOR Fund GP Limited 346.82 5.66 - 352.48 - Bright Lee Capital Limited 68.55 67,233.52 66,956.77 345.30 - Double Nitrogen Fund GP, Limited 339.28 6.00 - 345.28 - 137 Kingvest Limited - 58,370.85 58,370.85 - - Sunrise Capital Holdings IV Limited 17,063,599.98 6,190,214.32 10,790,148.63 12,463,665.67 - Sunrise Capital Holdings V Limited - 4,047,689.40 - 4,047,689.40 - 中信标普指数信息服务 (北京) 有限公 司 - - - - - 小计 17,064,361.71 10,363,519.86 10,915,476.25 16,512,405.32 - 合计 9,650,008,845.75 929,241,503.01 971,736,267.80 9,607,514,080.96 24,537,383.64 中信证券2025半年度报告|财务报告 第 45 页 |\n| --- | --- |"
+      },
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 账面价值 账面价值 CLSA Aviation Private Equity Fund II | 374,670.81 | 64,171.76 | - | 438,842.57 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "账面价值 账面价值 CLSA Aviation Private Equity Fund II",
+            "374,670.81",
+            "64,171.76",
+            "-",
+            "438,842.57",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 账面价值 账面价值 CLSA Aviation Private Equity Fund II | 374,670.81 | 64,171.76 | - | 438,842.57 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "账面价值 账面价值 CLSA Aviation Private Equity Fund II",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Aviation II Investments (Cayman) Limited | 70,490,832.17 | 13,350,585.70 | 1,989,436.47 | 81,851,981.40 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CLSA Aviation II Investments (Cayman) Limited",
+            "70,490,832.17",
+            "13,350,585.70",
+            "1,989,436.47",
+            "81,851,981.40",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Aviation II Investments (Cayman) Limited | 70,490,832.17 | 13,350,585.70 | 1,989,436.47 | 81,851,981.40 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CLSA Aviation II Investments (Cayman) Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Infrastructure Private Equity Fund I | 883,193.45 | 70,622.22 | 50,525.02 | 903,290.65 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CLSA Infrastructure Private Equity Fund I",
+            "883,193.45",
+            "70,622.22",
+            "50,525.02",
+            "903,290.65",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Infrastructure Private Equity Fund I | 883,193.45 | 70,622.22 | 50,525.02 | 903,290.65 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CLSA Infrastructure Private Equity Fund I",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Lending Ark Asia Secured Private Debt Fund I (Non | - | 319,537,546.02 | 32,575,298.53 | 96,363,346.77 | 255,749,497.78 |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Lending Ark Asia Secured Private Debt Fund I (Non",
+            "-",
+            "319,537,546.02",
+            "32,575,298.53",
+            "96,363,346.77",
+            "255,749,497.78"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Lending Ark Asia Secured Private Debt Fund I (Non | - | 319,537,546.02 | 32,575,298.53 | 96,363,346.77 | 255,749,497.78 |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Lending Ark Asia Secured Private Debt Fund I (Non",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CSOBOR Fund L.P. | 62,663,465.61 | 6,834,617.13 | 7,343,881.64 | 62,154,201.10 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CSOBOR Fund L.P.",
+            "62,663,465.61",
+            "6,834,617.13",
+            "7,343,881.64",
+            "62,154,201.10",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CSOBOR Fund L.P. | 62,663,465.61 | 6,834,617.13 | 7,343,881.64 | 62,154,201.10 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CSOBOR Fund L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CT CLSA Holdings Limited | 6,233,375.89 | 1,348,130.55 | - | 7,581,506.44 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CT CLSA Holdings Limited",
+            "6,233,375.89",
+            "1,348,130.55",
+            "-",
+            "7,581,506.44",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CT CLSA Holdings Limited | 6,233,375.89 | 1,348,130.55 | - | 7,581,506.44 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CT CLSA Holdings Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Citron PE Holdings Limited | 253,941,267.84 | 5,269,768.35 | 18,749,499.79 | 240,461,536.40 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Citron PE Holdings Limited",
+            "253,941,267.84",
+            "5,269,768.35",
+            "18,749,499.79",
+            "240,461,536.40",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Citron PE Holdings Limited | 253,941,267.84 | 5,269,768.35 | 18,749,499.79 | 240,461,536.40 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Citron PE Holdings Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Alfalah CLSA Securities (Private) Limited | 3,118,354.73 | - | 3,118,354.73 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Alfalah CLSA Securities (Private) Limited",
+            "3,118,354.73",
+            "-",
+            "3,118,354.73",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Alfalah CLSA Securities (Private) Limited | 3,118,354.73 | - | 3,118,354.73 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Alfalah CLSA Securities (Private) Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Holisol Logistics Private Limited | 48,321,119.34 | 1,480,305.83 | 648,474.22 | 49,152,950.95 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Holisol Logistics Private Limited",
+            "48,321,119.34",
+            "1,480,305.83",
+            "648,474.22",
+            "49,152,950.95",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Holisol Logistics Private Limited | 48,321,119.34 | 1,480,305.83 | 648,474.22 | 49,152,950.95 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Holisol Logistics Private Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Pine Tree Special Opportunity FMC LLC | - | 1,064,639.00 | 1,064,639.00 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Pine Tree Special Opportunity FMC LLC",
+            "-",
+            "1,064,639.00",
+            "1,064,639.00",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Pine Tree Special Opportunity FMC LLC | - | 1,064,639.00 | 1,064,639.00 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Pine Tree Special Opportunity FMC LLC",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Lending Ark Asia Secured Private Debt Holdings Limited | 219,061.34 | 1,860,667.95 | - | 2,079,729.29 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Lending Ark Asia Secured Private Debt Holdings Limited",
+            "219,061.34",
+            "1,860,667.95",
+            "-",
+            "2,079,729.29",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Lending Ark Asia Secured Private Debt Holdings Limited | 219,061.34 | 1,860,667.95 | - | 2,079,729.29 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Lending Ark Asia Secured Private Debt Holdings Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Asia Growth Fund, L.P. | - | 87,721,848.00 | 2,315,005.24 | 85,406,842.76 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CLSA Asia Growth Fund, L.P.",
+            "-",
+            "87,721,848.00",
+            "2,315,005.24",
+            "85,406,842.76",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CLSA Asia Growth Fund, L.P. | - | 87,721,848.00 | 2,315,005.24 | 85,406,842.76 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CLSA Asia Growth Fund, L.P.",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 小计 | 9,632,944,484.04 | 918,877,983.15 | 960,820,791.55 | 9,591,001,675.64 | 24,537,383.64 |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "小计",
+            "9,632,944,484.04",
+            "918,877,983.15",
+            "960,820,791.55",
+            "9,591,001,675.64",
+            "24,537,383.64"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 小计 | 9,632,944,484.04 | 918,877,983.15 | 960,820,791.55 | 9,591,001,675.64 | 24,537,383.64 |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "小计",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Investment Management Limited | 7.08 | 0.11 | - | 7.19 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Investment Management Limited",
+            "7.08",
+            "0.11",
+            "-",
+            "7.19",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Investment Management Limited | 7.08 | 0.11 | - | 7.19 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Investment Management Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CSOBOR Fund GP Limited | 346.82 | 5.66 | - | 352.48 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "CSOBOR Fund GP Limited",
+            "346.82",
+            "5.66",
+            "-",
+            "352.48",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| CSOBOR Fund GP Limited | 346.82 | 5.66 | - | 352.48 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "CSOBOR Fund GP Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Bright Lee Capital Limited | 68.55 | 67,233.52 | 66,956.77 | 345.30 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Bright Lee Capital Limited",
+            "68.55",
+            "67,233.52",
+            "66,956.77",
+            "345.30",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Bright Lee Capital Limited | 68.55 | 67,233.52 | 66,956.77 | 345.30 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Bright Lee Capital Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Double Nitrogen Fund GP, Limited | 339.28 | 6.00 | - | 345.28 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Double Nitrogen Fund GP, Limited",
+            "339.28",
+            "6.00",
+            "-",
+            "345.28",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Double Nitrogen Fund GP, Limited | 339.28 | 6.00 | - | 345.28 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Double Nitrogen Fund GP, Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Kingvest Limited | - | 58,370.85 | 58,370.85 | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Kingvest Limited",
+            "-",
+            "58,370.85",
+            "58,370.85",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Kingvest Limited | - | 58,370.85 | 58,370.85 | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Kingvest Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings IV Limited | 17,063,599.98 | 6,190,214.32 | 10,790,148.63 | 12,463,665.67 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital Holdings IV Limited",
+            "17,063,599.98",
+            "6,190,214.32",
+            "10,790,148.63",
+            "12,463,665.67",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings IV Limited | 17,063,599.98 | 6,190,214.32 | 10,790,148.63 | 12,463,665.67 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital Holdings IV Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings V Limited | - | 4,047,689.40 | - | 4,047,689.40 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "Sunrise Capital Holdings V Limited",
+            "-",
+            "4,047,689.40",
+            "-",
+            "4,047,689.40",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| Sunrise Capital Holdings V Limited | - | 4,047,689.40 | - | 4,047,689.40 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "Sunrise Capital Holdings V Limited",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 中信标普指数信息服务 (北京) 有限公 司 | - | - | - | - | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "中信标普指数信息服务 (北京) 有限公 司",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 中信标普指数信息服务 (北京) 有限公 司 | - | - | - | - | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "中信标普指数信息服务 (北京) 有限公 司",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 小计 | 17,064,361.71 | 10,363,519.86 | 10,915,476.25 | 16,512,405.32 | - |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "小计",
+            "17,064,361.71",
+            "10,363,519.86",
+            "10,915,476.25",
+            "16,512,405.32",
+            "-"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 小计 | 17,064,361.71 | 10,363,519.86 | 10,915,476.25 | 16,512,405.32 | - |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "小计",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 2,
+      "element_type": "table",
+      "text": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 合计 | 9,650,008,845.75 | 929,241,503.01 | 971,736,267.80 | 9,607,514,080.96 | 24,537,383.64 |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "被投资单位名称",
+          "数值1",
+          "数值2",
+          "数值3",
+          "数值4",
+          "减值准备"
+        ],
+        "rows": [
+          [
+            "合计",
+            "9,650,008,845.75",
+            "929,241,503.01",
+            "971,736,267.80",
+            "9,607,514,080.96",
+            "24,537,383.64"
+          ]
+        ],
+        "markdown": "| 被投资单位名称 | 数值1 | 数值2 | 数值3 | 数值4 | 减值准备 |\n| --- | --- | --- | --- | --- | --- |\n| 合计 | 9,650,008,845.75 | 929,241,503.01 | 971,736,267.80 | 9,607,514,080.96 | 24,537,383.64 |"
+      },
+      "metadata": {
+        "synthetic_table": true,
+        "entity_name": "合计",
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "clause",
+      "text": "2025 年1 月1 日至6 月30 日止期间财务报表",
+      "clause_id": "2025",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "clause",
+      "text": "41 其他综合收益 2025 年1 月1 日至2025 年6 月30 日止期间",
+      "clause_id": "41",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "clause",
+      "text": "182",
+      "clause_id": "182",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "中信证券股份有限公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "第 90 页",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "归属于母公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "股东的其他综合",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "收益期初余额",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "本期发生额 归属于母公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "股东的其他综合",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "收益期末余额 项目 本期所得税前发生额 减：所得税",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "减：前期计入其他综",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "合收益当期转入损益",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "减：前期计入其他综合",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "收益当期转入留存收益 小计 税后归属于母公司 税后归属于少数股东",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "(一)不能重分类进损益的其",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "他综合收益 667,164,807.36 1,071,003,165.73 260,006,944.14 - (105,268,654.32) 916,264,875.91 916,264,875.91 - 1,583,429,683.27",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "权益法下不能转损益",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "的其他综合收益 5,711,066.29 - - - - - - - 5,711,066.29",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "其他权益工具投资",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "公允价值变动 619,610,632.54 1,070,373,500.18 260,006,944.14 - (105,268,654.32) 915,635,210.36 915,635,210.36 - 1,535,245,842.90",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "其他 41,843,108.53 629,665.55 - - - 629,665.55 629,665.55 - 42,472,774.08",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "(二)将重分类进损益的其他",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "综合收益 653,959,260.76 22,423,817.65 (8,439,226.38) 580,633,396.48 - (549,770,352.45) (543,377,870.83) (6,392,481.62) 110,581,389.93",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "权益法下可转损益的",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "其他综合收益 68,760,965.21 26,597,882.39 6,649,470.60 - - 19,948,411.79 19,948,411.79 - 88,709,377.00",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "其他债权投资",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "公允价值变动 239,200,100.20 (61,193,274.33) (21,736,939.75) 387,450,119.94 - (426,906,454.52) (426,906,454.52) - (187,706,354.32)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "其他债权投资",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "信用损失准备 521,571,017.81 21,384,621.64 6,648,242.77 193,183,276.54 - (178,446,897.67) (178,446,897.67) - 343,124,120.14",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "外币财务报表",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "折算差额 (13,055,733.31) 35,634,587.95 - - - 35,634,587.95 42,027,069.57 (6,392,481.62) 28,971,336.26",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "其他 (162,517,089.15) - - - - - - - (162,517,089.15)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 3,
+      "element_type": "paragraph",
+      "text": "其他综合收益合计 1,321,124,068.12 1,093,426,983.38 251,567,717.76 580,633,396.48 (105,268,654.32) 366,494,523.46 372,887,005.08 (6,392,481.62) 1,694,011,073.20",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "clause",
+      "text": "2025 年1 月1 日至6 月30 日止期间财务报表",
+      "clause_id": "2025",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "clause",
+      "text": "2024 年1 月1 日至6 月30 日止期间",
+      "clause_id": "2024",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "clause",
+      "text": "183",
+      "clause_id": "183",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "中信证券股份有限公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "第 91 页",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "归属于母公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "股东的其他综合",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "收益期初余额",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "本期发生额 归属于母公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "股东的其他综合",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "收益期末余额 项目 本期所得税前发生额 减：所得税",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "减：前期计入其他综",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "合收益当期转入损益",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "减：前期计入其他综合",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "收益当期转入留存收益 小计 税后归属于母公司 税后归属于少数股东",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "(一)不能重分类进损益的其",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "他综合收益 (117,979,937.07) 1,568,020,043.74 390,029,319.28 - (5,104,005.00) 1,183,094,729.46 1,183,094,729.46 - 1,065,114,792.39",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "权益法下不能转损益",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "的其他综合收益 4,205,030.92 - - - - - - - 4,205,030.92",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "其他权益工具投资",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "公允价值变动 (153,290,748.59) 1,569,578,534.48 390,029,319.28 - (5,104,005.00) 1,184,653,220.20 1,184,653,220.20 - 1,031,362,471.61",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "其他 31,105,780.60 (1,558,490.74) - - - (1,558,490.74) (1,558,490.74) - 29,547,289.86",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "(二)将重分类进损益的其他",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "综合收益 1,210,320,335.46 339,611,762.26 281,346,206.08 947,457,838.51 - (889,192,282.33) (886,806,719.70) (2,385,562.63) 323,513,615.76",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "权益法下可转损益的",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "其他综合收益 49,438,334.41 13,690,734.51 3,528,451.61 - - 10,162,282.90 10,162,282.90 - 59,600,617.31",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "其他债权投资",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "公允价值变动 (282,180,569.05) 1,056,979,622.35 262,400,906.93 560,455,302.90 - 234,123,412.52 234,123,412.52 - (48,057,156.53)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "其他债权投资",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "信用损失准备 973,274,422.88 58,306,801.97 15,416,847.54 387,002,535.61 - (344,112,581.18) (344,112,581.18) - 629,161,841.70",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "外币财务报表",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "折算差额 632,305,236.37 (789,365,396.57) - - - (789,365,396.57) (786,979,833.94) (2,385,562.63) (154,674,597.57)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "其他 (162,517,089.15) - - - - - - - (162,517,089.15)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "其他综合收益合计 1,092,340,398.39 1,907,631,806.00 671,375,525.36 947,457,838.51 (5,104,005.00) 293,902,447.13 296,288,009.76 (2,385,562.63) 1,388,628,408.15",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 4,
+      "element_type": "paragraph",
+      "text": "中信证券2025 半年度报告| 财务报告",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "clause",
+      "text": "2025 年1 月1 日至6 月30 日止期间财务报表",
+      "clause_id": "2025",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "clause",
+      "text": "2025 年6 月30日",
+      "clause_id": "2025",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "clause",
+      "text": "227",
+      "clause_id": "227",
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "中信证券股份有限公司",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "第 135 页",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "于本报告期末，本集团金融工具未经折现的合同现金流量按到期日分析如下：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "项目 即期偿还 3 个月内 3 个月至1 年 1 至5 年 5 年以上 无期限 合计",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "非衍生金融负债：",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "短期借款 390,209,470.57 25,784,019,804.81 1,083,362,114.64 - - - 27,257,591,390.02",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "应付短期融资款 - 20,514,184,327.49 10,962,184,532.11 - - - 31,476,368,859.60",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "拆入资金 - 32,077,619,833.33 1,920,967,173.68 - - - 33,998,587,007.01",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "交易性金融负债 26,466,221.75 29,968,698,082.96 41,485,792,194.05 38,181,456,133.02 5,160,129,399.65 18,089,763,103.38 132,912,305,134.81",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "卖出回购金融资产款 56,111,331,934.21 315,133,515,999.84 30,214,159,993.89 612,545,387.99 - - 402,071,553,315.93",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "代理买卖证券款 433,717,503,583.04 - - - - - 433,717,503,583.04",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "代理承销证券款 6,425,943.40 - - - - - 6,425,943.40",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "应付款项 209,673,307,377.00 6,357,314,960.54 183,089,804.79 384,833,147.62 - 365,877,514.30 216,964,422,804.25",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "应付债券 - 9,789,390,000.00 28,728,301,945.82 69,298,197,823.52 25,334,342,739.73 - 133,150,232,509.07",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "长期借款 - - - 10,534,016.31 - - 10,534,016.31",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "租赁负债 - 170,986,812.30 622,485,344.27 1,411,401,627.63 293,447,459.52 - 2,498,321,243.72",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "其他 2,478,807,972.18 6,971,086,823.10 652,767,621.90 718,879,351.67 - 494,952,683.76 11,316,494,452.61",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "金融负债合计 702,404,052,502.15 446,766,816,644.37 115,853,110,725.15 110,617,847,487.76 30,787,919,598.90 18,950,593,301.44 1,425,380,340,259.77",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "以净额交割的衍生金融负债 604,605.05 8,987,110,941.97 10,525,068,674.75 19,056,759,721.19 10,604,505,586.74 - 49,174,049,529.70",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "以总额交割的衍生金融负债",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "应收合约金额 - (167,900,781,712.12) (163,578,881,841.55) (25,932,210,302.14) (8,138,507,787.15) - (365,550,381,642.96)",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "应付合约金额 - 169,137,437,637.57 164,975,209,120.49 26,276,507,823.21 8,076,965,044.85 - 368,466,119,626.12",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "- 1,236,655,925.45 1,396,327,278.94 344,297,521.07 (61,542,742.30) - 2,915,737,983.16",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "paragraph",
+      "text": "中信证券2025 半年度报告| 财务报告",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 5,
+      "element_type": "table",
+      "text": "|  | 中信证券股份有限公司 2025年1月1日至6月30日止期间财务报表 于本报告期末，本集团金融工具未经折现的合同现金流量按到期日分析如下： 2025年6月30日 项目 即期偿还 3个月内 3个月至1年 1至5年 5年以上 无期限 合计 非衍生金融负债： 短期借款 390,209,470.57 25,784,019,804.81 1,083,362,114.64 - - - 27,257,591,390.02 应付短期融资款 - 20,514,184,327.49 10,962,184,532.11 - - - 31,476,368,859.60 拆入资金 - 32,077,619,833.33 1,920,967,173.68 - - - 33,998,587,007.01 交易性金融负债 26,466,221.75 29,968,698,082.96 41,485,792,194.05 38,181,456,133.02 5,160,129,399.65 18,089,763,103.38 132,912,305,134.81 卖出回购金融资产款 56,111,331,934.21 315,133,515,999.84 30,214,159,993.89 612,545,387.99 - - 402,071,553,315.93 代理买卖证券款 433,717,503,583.04 - - - - - 433,717,503,583.04 代理承销证券款 6,425,943.40 - - - - - 6,425,943.40 应付款项 209,673,307,377.00 6,357,314,960.54 183,089,804.79 384,833,147.62 - 365,877,514.30 216,964,422,804.25 应付债券 - 9,789,390,000.00 28,728,301,945.82 69,298,197,823.52 25,334,342,739.73 - 133,150,232,509.07 长期借款 - - - 10,534,016.31 - - 10,534,016.31 租赁负债 - 170,986,812.30 622,485,344.27 1,411,401,627.63 293,447,459.52 - 2,498,321,243.72 其他 2,478,807,972.18 6,971,086,823.10 652,767,621.90 718,879,351.67 - 494,952,683.76 11,316,494,452.61 227 金融负债合计 702,404,052,502.15 446,766,816,644.37 115,853,110,725.15 110,617,847,487.76 30,787,919,598.90 18,950,593,301.44 1,425,380,340,259.77 以净额交割的衍生金融负债 604,605.05 8,987,110,941.97 10,525,068,674.75 19,056,759,721.19 10,604,505,586.74 - 49,174,049,529.70 以总额交割的衍生金融负债 应收合约金额 - (167,900,781,712.12) (163,578,881,841.55) (25,932,210,302.14) (8,138,507,787.15) - (365,550,381,642.96) 应付合约金额 - 169,137,437,637.57 164,975,209,120.49 26,276,507,823.21 8,076,965,044.85 - 368,466,119,626.12 - 1,236,655,925.45 1,396,327,278.94 344,297,521.07 (61,542,742.30) - 2,915,737,983.16 第 135 页 中信证券2025半年度报告|财务报告 |\n| --- | --- |",
+      "clause_id": null,
+      "table": {
+        "headers": [
+          "",
+          "中信证券股份有限公司 2025年1月1日至6月30日止期间财务报表 于本报告期末，本集团金融工具未经折现的合同现金流量按到期日分析如下： 2025年6月30日 项目 即期偿还 3个月内 3个月至1年 1至5年 5年以上 无期限 合计 非衍生金融负债： 短期借款 390,209,470.57 25,784,019,804.81 1,083,362,114.64 - - - 27,257,591,390.02 应付短期融资款 - 20,514,184,327.49 10,962,184,532.11 - - - 31,476,368,859.60 拆入资金 - 32,077,619,833.33 1,920,967,173.68 - - - 33,998,587,007.01 交易性金融负债 26,466,221.75 29,968,698,082.96 41,485,792,194.05 38,181,456,133.02 5,160,129,399.65 18,089,763,103.38 132,912,305,134.81 卖出回购金融资产款 56,111,331,934.21 315,133,515,999.84 30,214,159,993.89 612,545,387.99 - - 402,071,553,315.93 代理买卖证券款 433,717,503,583.04 - - - - - 433,717,503,583.04 代理承销证券款 6,425,943.40 - - - - - 6,425,943.40 应付款项 209,673,307,377.00 6,357,314,960.54 183,089,804.79 384,833,147.62 - 365,877,514.30 216,964,422,804.25 应付债券 - 9,789,390,000.00 28,728,301,945.82 69,298,197,823.52 25,334,342,739.73 - 133,150,232,509.07 长期借款 - - - 10,534,016.31 - - 10,534,016.31 租赁负债 - 170,986,812.30 622,485,344.27 1,411,401,627.63 293,447,459.52 - 2,498,321,243.72 其他 2,478,807,972.18 6,971,086,823.10 652,767,621.90 718,879,351.67 - 494,952,683.76 11,316,494,452.61 227 金融负债合计 702,404,052,502.15 446,766,816,644.37 115,853,110,725.15 110,617,847,487.76 30,787,919,598.90 18,950,593,301.44 1,425,380,340,259.77 以净额交割的衍生金融负债 604,605.05 8,987,110,941.97 10,525,068,674.75 19,056,759,721.19 10,604,505,586.74 - 49,174,049,529.70 以总额交割的衍生金融负债 应收合约金额 - (167,900,781,712.12) (163,578,881,841.55) (25,932,210,302.14) (8,138,507,787.15) - (365,550,381,642.96) 应付合约金额 - 169,137,437,637.57 164,975,209,120.49 26,276,507,823.21 8,076,965,044.85 - 368,466,119,626.12 - 1,236,655,925.45 1,396,327,278.94 344,297,521.07 (61,542,742.30) - 2,915,737,983.16 第 135 页 中信证券2025半年度报告|财务报告"
+        ],
+        "rows": [],
+        "markdown": "|  | 中信证券股份有限公司 2025年1月1日至6月30日止期间财务报表 于本报告期末，本集团金融工具未经折现的合同现金流量按到期日分析如下： 2025年6月30日 项目 即期偿还 3个月内 3个月至1年 1至5年 5年以上 无期限 合计 非衍生金融负债： 短期借款 390,209,470.57 25,784,019,804.81 1,083,362,114.64 - - - 27,257,591,390.02 应付短期融资款 - 20,514,184,327.49 10,962,184,532.11 - - - 31,476,368,859.60 拆入资金 - 32,077,619,833.33 1,920,967,173.68 - - - 33,998,587,007.01 交易性金融负债 26,466,221.75 29,968,698,082.96 41,485,792,194.05 38,181,456,133.02 5,160,129,399.65 18,089,763,103.38 132,912,305,134.81 卖出回购金融资产款 56,111,331,934.21 315,133,515,999.84 30,214,159,993.89 612,545,387.99 - - 402,071,553,315.93 代理买卖证券款 433,717,503,583.04 - - - - - 433,717,503,583.04 代理承销证券款 6,425,943.40 - - - - - 6,425,943.40 应付款项 209,673,307,377.00 6,357,314,960.54 183,089,804.79 384,833,147.62 - 365,877,514.30 216,964,422,804.25 应付债券 - 9,789,390,000.00 28,728,301,945.82 69,298,197,823.52 25,334,342,739.73 - 133,150,232,509.07 长期借款 - - - 10,534,016.31 - - 10,534,016.31 租赁负债 - 170,986,812.30 622,485,344.27 1,411,401,627.63 293,447,459.52 - 2,498,321,243.72 其他 2,478,807,972.18 6,971,086,823.10 652,767,621.90 718,879,351.67 - 494,952,683.76 11,316,494,452.61 227 金融负债合计 702,404,052,502.15 446,766,816,644.37 115,853,110,725.15 110,617,847,487.76 30,787,919,598.90 18,950,593,301.44 1,425,380,340,259.77 以净额交割的衍生金融负债 604,605.05 8,987,110,941.97 10,525,068,674.75 19,056,759,721.19 10,604,505,586.74 - 49,174,049,529.70 以总额交割的衍生金融负债 应收合约金额 - (167,900,781,712.12) (163,578,881,841.55) (25,932,210,302.14) (8,138,507,787.15) - (365,550,381,642.96) 应付合约金额 - 169,137,437,637.57 164,975,209,120.49 26,276,507,823.21 8,076,965,044.85 - 368,466,119,626.12 - 1,236,655,925.45 1,396,327,278.94 344,297,521.07 (61,542,742.30) - 2,915,737,983.16 第 135 页 中信证券2025半年度报告|财务报告 |\n| --- | --- |"
+      },
+      "metadata": {
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    },
+    {
+      "page": 6,
+      "element_type": "paragraph",
+      "text": "<div style=\"text-align: center;\">2024年12月31日</div> <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>项目</td><td style='text-align: center; word-wrap: break-word;'>即期偿还</td><td style='text-align: center; word-wrap: break-word;'>3个月内</td><td style='text-align: center; word-wrap: break-word;'>3个月至1年</td><td style='text-align: center; word-wrap: break-word;'>1至5年</td><td style='text-align: center; word-wrap: break-word;'>5年以上</td><td style='text-align: center; word-wrap: break-word;'>无期限</td><td style='text-align: center; word-wrap: break-word;'>合计</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>非衍生金融负债：</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>短期借款</td><td style='text-align: center; word-wrap: break-word;'>4,880,498.63</td><td style='text-align: center; word-wrap: break-word;'>14,088,608,413.39</td><td style='text-align: center; word-wrap: break-word;'>7,663,832.54</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>14,101,152,744.56</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>应付短期融资款</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>20,688,760,872.75</td><td style='text-align: center; word-wrap: break-word;'>22,258,150,595.82</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>42,946,911,468.57</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>拆入资金</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>44,514,750,922.89</td><td style='text-align: center; word-wrap: break-word;'>999,866,578.61</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>45,514,617,501.50</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>交易性金融负债</td><td style='text-align: center; word-wrap: break-word;'>48,989.72</td><td style='text-align: center; word-wrap: break-word;'>49,549,577,132.06</td><td style='text-align: center; word-wrap: break-word;'>31,122,909,550.80</td><td style='text-align: center; word-wrap: break-word;'>26,527,646,654.90</td><td style='text-align: center; word-wrap: break-word;'>5,243,565,446.74</td><td style='text-align: center; word-wrap: break-word;'>13,860,529,764.08</td><td style='text-align: center; word-wrap: break-word;'>126,304,277,538.30</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>卖出回购金融资产款</td><td style='text-align: center; word-wrap: break-word;'>55,338,604,435.71</td><td style='text-align: center; word-wrap: break-word;'>320,103,771,959.85</td><td style='text-align: center; word-wrap: break-word;'>14,630,860,805.13</td><td style='text-align: center; word-wrap: break-word;'>535,680,782.97</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>390,608,917,983.66</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>代理买卖证券款</td><td style='text-align: center; word-wrap: break-word;'>362,448,643,767.97</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>362,448,643,767.97</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>代理承销证券款</td><td style='text-align: center; word-wrap: break-word;'>1,063,310,199.28</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>1,063,310,199.28</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>应付款项</td><td style='text-align: center; word-wrap: break-word;'>196,249,091,495.21</td><td style='text-align: center; word-wrap: break-word;'>1,039,740,392.31</td><td style='text-align: center; word-wrap: break-word;'>190,104,834.33</td><td style='text-align: center; word-wrap: break-word;'>364,962,565.73</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>338,967,459.30</td><td style='text-align: center; word-wrap: break-word;'>198,182,866,746.88</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>应付债券</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>14,403,558,000.00</td><td style='text-align: center; word-wrap: break-word;'>35,587,716,742.27</td><td style='text-align: center; word-wrap: break-word;'>77,913,118,868.74</td><td style='text-align: center; word-wrap: break-word;'>26,075,352,739.73</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>153,979,746,350.74</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>长期借款</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>32,370,498.93</td><td style='text-align: center; word-wrap: break-word;'>199,361,922.12</td><td style='text-align: center; word-wrap: break-word;'>85,331,365.12</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>317,063,786.17</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>租赁负债</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>172,175,783.80</td><td style='text-align: center; word-wrap: break-word;'>602,223,714.77</td><td style='text-align: center; word-wrap: break-word;'>1,495,241,961.10</td><td style='text-align: center; word-wrap: break-word;'>224,855,508.54</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>2,494,496,968.21</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>其他</td><td style='text-align: center; word-wrap: break-word;'>2,323,443,115.06</td><td style='text-align: center; word-wrap: break-word;'>2,268,913,916.93</td><td style='text-align: center; word-wrap: break-word;'>366,976,886.79</td><td style='text-align: center; word-wrap: break-word;'>692,190,384.34</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>463,503,943.62</td><td style='text-align: center; word-wrap: break-word;'>6,115,028,246.74</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>金融负债合计</td><td style='text-align: center; word-wrap: break-word;'>617,428,022,501.58</td><td style='text-align: center; word-wrap: break-word;'>466,862,227,892.91</td><td style='text-align: center; word-wrap: break-word;'>105,965,835,463.18</td><td style='text-align: center; word-wrap: break-word;'>107,614,172,582.90</td><td style='text-align: center; word-wrap: break-word;'>31,543,773,695.01</td><td style='text-align: center; word-wrap: break-word;'>14,663,001,167.00</td><td style='text-align: center; word-wrap: break-word;'>1,344,077,033,302.58</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>以净额交割的衍生金融负债</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>8,551,251,625.76</td><td style='text-align: center; word-wrap: break-word;'>14,012,913,236.90</td><td style='text-align: center; word-wrap: break-word;'>18,750,281,137.08</td><td style='text-align: center; word-wrap: break-word;'>7,679,614,225.99</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>48,994,060,225.73</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>以总额交割的衍生金融负债</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>应收合约金额</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>(141,992,948,981.52)</td><td style='text-align: center; word-wrap: break-word;'>(146,524,824,269.98)</td><td style='text-align: center; word-wrap: break-word;'>(26,137,498,022.11)</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>(314,655,271,273.61)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>应付合约金额</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>145,376,164,668.26</td><td style='text-align: center; word-wrap: break-word;'>148,819,393,033.91</td><td style='text-align: center; word-wrap: break-word;'>26,605,220,811.15</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>320,800,778,513.32</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>3,383,215,686.74</td><td style='text-align: center; word-wrap: break-word;'>2,294,568,763.93</td><td style='text-align: center; word-wrap: break-word;'>467,722,789.04</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>-</td><td style='text-align: center; word-wrap: break-word;'>6,145,507,239.71</td></tr></table>",
+      "clause_id": null,
+      "table": null,
+      "metadata": {
+        "ocr": true,
+        "source_pdf": "agent.pdf",
+        "source_path": "data\\input\\agent.pdf"
+      }
+    }
+  ],
+  "source_documents": [
+    "agent.pdf"
+  ],
+  "metadata": {
+    "document_count": 1,
+    "source_paths": [
+      "data\\input\\agent.pdf"
+    ]
+  }
+}

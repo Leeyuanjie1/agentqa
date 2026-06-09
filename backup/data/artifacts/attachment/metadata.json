@@ -1,0 +1,12 @@
+{
+  "embedding_backend": "sentence-transformers",
+  "reranker_backend": "lexical",
+  "pdf_type": "mixed",
+  "source_pdf": "data\\input",
+  "source_documents": [
+    "agent.pdf"
+  ],
+  "total_pages": 6,
+  "total_elements": 256,
+  "total_chunks": 291
+}
